@@ -7,7 +7,7 @@
 
 ## Languages:
 + Java
-+ german 😁
++ german 👶
 + english 🕵️‍♂️
 + french 👨‍🎓
 
