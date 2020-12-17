@@ -1,4 +1,7 @@
 ### Hi there 👋
+Lorenz here, I'm only a student at the it.schule in Stuttgart. Just some random fuck things here (some kinda school stuff, which I'll upload here)
+
+cheers!
 
 <!--
 **l0r3n2f/l0r3n2f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
