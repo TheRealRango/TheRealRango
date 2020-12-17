@@ -1,10 +1,6 @@
 ## Hi there 👋
 ### [Lorenz!](https://www.germany.com/) here, I'm a student at the it.schule in Stuttgart. Just some random fuck things here (some kinda school stuff, which I'll upload here)
 
-
-
-
-
 # Cheers!🍺
 
 <br />
@@ -12,8 +8,8 @@
 ## Languages:
 + Java
 + german 😁
-+ english
-+ french
++ english 🕵️‍♂️
++ french 👨‍🎓
 
 <br />
 
