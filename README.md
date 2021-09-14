@@ -7,6 +7,8 @@
 
 ## Languages:
 + Java
++ python
++ assembly
 + german 👶
 + english 🕵️‍♂️
 + french 👨‍🎓
